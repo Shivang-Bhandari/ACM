@@ -1,0 +1,78 @@
+/*------------------------------------------------------------------
+[Brown Extra Color Scheme Stylesheet]
+
+Project:    BigStream
+Version:    1.0
+Last change:    Initial RELEASED
+Primary use:    MultiPurpose One Page Template  
+-------------------------------------------------------------------*/
+
+
+/*------------------------------------------------------------------
+# [Color codes]
+
+# Brown Extra (active elements, links) #c3a876
+# */
+
+
+a, a:hover,
+.btn-mod.btn-border-c,
+.btn-icon > span,
+.st-point,
+.service-icon,
+.alt-service-icon,
+.benefit-icon,
+.count-descr,
+.blog-item-title a:hover,
+a.blog-item-more:hover,
+.blog-item-q:hover a,
+.blog-item-q p a:hover,
+.blog-item-q p:hover:before,
+.blog-item-q p:hover:after,
+.widget-menu li a:hover,
+.widget-menu li a.active,
+.widget-comments li a:hover,
+.widget-posts li a:hover,
+.accordion > dt > a.active:after,
+.accordion > dt > a.active:hover:after,
+.toggle > dt > a.active:after,
+.toggle > dt > a.active:hover:after,
+.progress-color .progress-bar{
+    color: #c3a876;
+}
+
+.color{
+    color: #c3a876 !important;
+}
+
+.btn-mod.btn-border-c,
+.blog-item-more:hover{
+    border-color: #c3a876;
+}
+
+
+.btn-mod.btn-border-c:hover,
+.btn-mod.btn-border-c:focus,
+.btn-mod.btn-color,
+.btn-mod.btn-color:hover,
+.btn-mod.btn-color:focus,
+.hs-line-10.highlight,
+.bg-color,
+.bg-colort-alfa:before,
+.bg-colort-alfa .YTPOverlay:before,
+.bg-color-alfa-30:before,
+.bg-color-alfa-30 .YTPOverlay:before,
+.bg-color-alfa-50:before,
+.bg-color-alfa-50 .YTPOverlay:before,
+.bg-color-alfa-70:before,
+.bg-color-alfa-70 .YTPOverlay:before,
+.bg-color-alfa-90:before,
+.bg-color-alfa-90 .YTPOverlay:before,
+.section-line,
+.works-grid.hover-color .work-item:hover .work-img:after,
+.lp-more,
+.progress-color .progress-bar,
+.progress-color .progress-bar > span{
+    background-color: #c3a876;
+}
+
