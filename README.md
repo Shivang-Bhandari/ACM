@@ -12,5 +12,5 @@ It includes pages for :
 
 ####This Website is no longer maintained by me and has been handed over to the current web developer as of september 2016.
 
-####The website is [live] here.(https://www.acmchitkara.com)
+####The website is [live here](https://www.acmchitkara.com).
 
